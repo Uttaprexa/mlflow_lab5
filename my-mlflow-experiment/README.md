@@ -16,7 +16,6 @@ A complete MLflow-based experiment tracking system featuring:
 - **Hyperparameter Tuning**: Grid search with nested MLflow runs
 - **Model Comparison**: Cross-experiment analysis and visualization
 - **Model Registry**: Version control and lifecycle management
-- **Production-Ready**: Professional MLflow UI usage and best practices
 
 ---
 
