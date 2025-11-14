@@ -1,0 +1,16 @@
+creation_timestamp: 1763002864349
+current_stage: Staging
+deployment_job_state: null
+description: Heart disease classifier with 100.00% accuracy. Trained on synthetic
+  heart disease dataset.
+last_updated_timestamp: 1763002864598
+model_id: m-f3a4d20d52a54a81b73d6a0d0e8358f3
+name: heart-disease-classifier
+run_id: ccb8d2ad87f24ea6b205245c59d2a329
+run_link: null
+source: models:/m-f3a4d20d52a54a81b73d6a0d0e8358f3
+status: READY
+status_message: null
+storage_location: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/976119185370021119/models/m-f3a4d20d52a54a81b73d6a0d0e8358f3/artifacts
+user_id: null
+version: 2

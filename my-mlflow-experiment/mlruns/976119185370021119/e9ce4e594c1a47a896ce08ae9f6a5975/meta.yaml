@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/976119185370021119/e9ce4e594c1a47a896ce08ae9f6a5975/artifacts
+end_time: 1762189345648
+entry_point_name: ''
+experiment_id: '976119185370021119'
+lifecycle_stage: active
+run_id: e9ce4e594c1a47a896ce08ae9f6a5975
+run_name: Decision Tree
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189339500
+status: 3
+tags: []
+user_id: mahes

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/f49e5dd7ea3a45d9a9f22f794fb86cac/artifacts
+end_time: 1763002795600
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: f49e5dd7ea3a45d9a9f22f794fb86cac
+run_name: angry-seal-618
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002795334
+status: 3
+tags: []
+user_id: mahes

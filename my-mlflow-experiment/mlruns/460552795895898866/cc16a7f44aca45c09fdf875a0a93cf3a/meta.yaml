@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/cc16a7f44aca45c09fdf875a0a93cf3a/artifacts
+end_time: 1762189458745
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: cc16a7f44aca45c09fdf875a0a93cf3a
+run_name: treasured-bear-557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189458359
+status: 3
+tags: []
+user_id: mahes

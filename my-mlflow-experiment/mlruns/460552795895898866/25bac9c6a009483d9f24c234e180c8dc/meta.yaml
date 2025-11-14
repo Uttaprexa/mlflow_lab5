@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/25bac9c6a009483d9f24c234e180c8dc/artifacts
+end_time: 1763002793669
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 25bac9c6a009483d9f24c234e180c8dc
+run_name: placid-worm-494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002793460
+status: 3
+tags: []
+user_id: mahes

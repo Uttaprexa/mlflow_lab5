@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/4bd68725b75b4d689b9fe273789732b7/artifacts
+end_time: 1763002768307
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 4bd68725b75b4d689b9fe273789732b7
+run_name: youthful-sow-880
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002768061
+status: 3
+tags: []
+user_id: mahes

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/75b85bdd440b497c8423b618bd40623e/artifacts
+end_time: 1762189448434
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 75b85bdd440b497c8423b618bd40623e
+run_name: likeable-koi-987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189448070
+status: 3
+tags: []
+user_id: mahes

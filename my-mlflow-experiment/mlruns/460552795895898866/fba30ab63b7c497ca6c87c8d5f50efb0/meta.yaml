@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/fba30ab63b7c497ca6c87c8d5f50efb0/artifacts
+end_time: 1763002761266
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: fba30ab63b7c497ca6c87c8d5f50efb0
+run_name: hilarious-hare-128
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002760984
+status: 3
+tags: []
+user_id: mahes

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/5276a859b6d846d2aad6f02d81c78a1e/artifacts
+end_time: 1763002787387
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 5276a859b6d846d2aad6f02d81c78a1e
+run_name: entertaining-doe-280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002787140
+status: 3
+tags: []
+user_id: mahes

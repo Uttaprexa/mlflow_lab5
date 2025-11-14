@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/407f87f4de724f76a99a0964c305cc61/artifacts
+end_time: 1763002806589
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 407f87f4de724f76a99a0964c305cc61
+run_name: gregarious-crane-207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002806234
+status: 3
+tags: []
+user_id: mahes

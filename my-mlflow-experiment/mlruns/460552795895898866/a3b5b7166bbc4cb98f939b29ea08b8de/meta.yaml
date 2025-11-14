@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/a3b5b7166bbc4cb98f939b29ea08b8de/artifacts
+end_time: 1762189465408
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: a3b5b7166bbc4cb98f939b29ea08b8de
+run_name: illustrious-wasp-698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189465194
+status: 3
+tags: []
+user_id: mahes

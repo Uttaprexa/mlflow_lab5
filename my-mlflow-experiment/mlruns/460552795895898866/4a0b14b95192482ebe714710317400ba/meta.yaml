@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/4a0b14b95192482ebe714710317400ba/artifacts
+end_time: 1762189477208
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 4a0b14b95192482ebe714710317400ba
+run_name: burly-squid-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189476762
+status: 3
+tags: []
+user_id: mahes

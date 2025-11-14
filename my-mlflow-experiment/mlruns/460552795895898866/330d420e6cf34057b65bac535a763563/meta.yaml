@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/330d420e6cf34057b65bac535a763563/artifacts
+end_time: 1762189469350
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 330d420e6cf34057b65bac535a763563
+run_name: amazing-shark-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189469060
+status: 3
+tags: []
+user_id: mahes

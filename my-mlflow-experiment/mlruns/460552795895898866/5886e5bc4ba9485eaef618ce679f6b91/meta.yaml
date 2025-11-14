@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/5886e5bc4ba9485eaef618ce679f6b91/artifacts
+end_time: 1762189443000
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 5886e5bc4ba9485eaef618ce679f6b91
+run_name: useful-frog-638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189442748
+status: 3
+tags: []
+user_id: mahes

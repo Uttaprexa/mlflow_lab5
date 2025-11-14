@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/51c8fd230d89434cb1acbd75280b327b/artifacts
+end_time: 1763002785773
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 51c8fd230d89434cb1acbd75280b327b
+run_name: thoughtful-shad-710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002785365
+status: 3
+tags: []
+user_id: mahes

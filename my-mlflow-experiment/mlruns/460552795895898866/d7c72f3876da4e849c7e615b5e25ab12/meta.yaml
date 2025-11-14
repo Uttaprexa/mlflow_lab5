@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/d7c72f3876da4e849c7e615b5e25ab12/artifacts
+end_time: 1763002762903
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: d7c72f3876da4e849c7e615b5e25ab12
+run_name: redolent-cub-274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002762646
+status: 3
+tags: []
+user_id: mahes

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/8cfe59e93111482e8d107e1b725e2100/artifacts
+end_time: 1763002791454
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 8cfe59e93111482e8d107e1b725e2100
+run_name: handsome-dolphin-573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002791226
+status: 3
+tags: []
+user_id: mahes

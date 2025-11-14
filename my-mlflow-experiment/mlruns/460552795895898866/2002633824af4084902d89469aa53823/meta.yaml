@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/2002633824af4084902d89469aa53823/artifacts
+end_time: 1762189476421
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 2002633824af4084902d89469aa53823
+run_name: unequaled-goose-901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189476097
+status: 3
+tags: []
+user_id: mahes

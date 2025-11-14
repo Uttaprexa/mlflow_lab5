@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/55478ddc2e7f45b7b456e0e3a64dad2f/artifacts
+end_time: 1762189464980
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 55478ddc2e7f45b7b456e0e3a64dad2f
+run_name: useful-turtle-301
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189464749
+status: 3
+tags: []
+user_id: mahes

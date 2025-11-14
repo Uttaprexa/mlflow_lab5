@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/cba789ec006f4da4a7790f8b460a6a4c/artifacts
+end_time: 1763002772094
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: cba789ec006f4da4a7790f8b460a6a4c
+run_name: blushing-stag-517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002771738
+status: 3
+tags: []
+user_id: mahes

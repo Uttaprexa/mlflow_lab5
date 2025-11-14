@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/45ac8730aa69494499a75cfbc891afd5/artifacts
+end_time: 1762189438841
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 45ac8730aa69494499a75cfbc891afd5
+run_name: awesome-sponge-971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189438612
+status: 3
+tags: []
+user_id: mahes

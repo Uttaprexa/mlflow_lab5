@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/3c698f1ce1674ab2a67f2c6b8a7bf645/artifacts
+end_time: 1762189475434
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 3c698f1ce1674ab2a67f2c6b8a7bf645
+run_name: youthful-ant-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189475133
+status: 3
+tags: []
+user_id: mahes

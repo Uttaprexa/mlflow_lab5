@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/968e3e791a4f44f69fd456b12ca17256/artifacts
+end_time: 1762189443244
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 968e3e791a4f44f69fd456b12ca17256
+run_name: monumental-yak-199
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189443016
+status: 3
+tags: []
+user_id: mahes

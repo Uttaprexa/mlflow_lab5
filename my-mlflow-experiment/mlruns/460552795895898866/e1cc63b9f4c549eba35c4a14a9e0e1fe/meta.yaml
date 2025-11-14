@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/e1cc63b9f4c549eba35c4a14a9e0e1fe/artifacts
+end_time: 1762189474232
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: e1cc63b9f4c549eba35c4a14a9e0e1fe
+run_name: flawless-skunk-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189473960
+status: 3
+tags: []
+user_id: mahes

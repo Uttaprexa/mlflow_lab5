@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/944502f5c86e4ae0bb5c5da8cc6c9e2d/artifacts
+end_time: 1763002796836
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 944502f5c86e4ae0bb5c5da8cc6c9e2d
+run_name: bemused-hog-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002796544
+status: 3
+tags: []
+user_id: mahes

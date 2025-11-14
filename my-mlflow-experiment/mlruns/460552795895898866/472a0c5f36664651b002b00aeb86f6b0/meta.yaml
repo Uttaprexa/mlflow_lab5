@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/472a0c5f36664651b002b00aeb86f6b0/artifacts
+end_time: 1763002788994
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 472a0c5f36664651b002b00aeb86f6b0
+run_name: suave-finch-529
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002788645
+status: 3
+tags: []
+user_id: mahes

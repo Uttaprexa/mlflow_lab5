@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/323367905fad4f77a09130fee56f9ce4/artifacts
+end_time: 1762189462530
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 323367905fad4f77a09130fee56f9ce4
+run_name: lyrical-frog-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189462283
+status: 3
+tags: []
+user_id: mahes

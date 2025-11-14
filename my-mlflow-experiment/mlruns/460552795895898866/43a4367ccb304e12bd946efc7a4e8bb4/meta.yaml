@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/43a4367ccb304e12bd946efc7a4e8bb4/artifacts
+end_time: 1763002794318
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 43a4367ccb304e12bd946efc7a4e8bb4
+run_name: casual-snipe-589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002794016
+status: 3
+tags: []
+user_id: mahes

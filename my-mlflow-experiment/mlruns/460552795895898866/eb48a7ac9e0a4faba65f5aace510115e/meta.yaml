@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/eb48a7ac9e0a4faba65f5aace510115e/artifacts
+end_time: 1762189439084
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: eb48a7ac9e0a4faba65f5aace510115e
+run_name: bemused-perch-943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189438855
+status: 3
+tags: []
+user_id: mahes

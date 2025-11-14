@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/2618be8537eb4c858396c38d18bdf96f/artifacts
+end_time: 1763002759656
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 2618be8537eb4c858396c38d18bdf96f
+run_name: bouncy-robin-958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002759474
+status: 3
+tags: []
+user_id: mahes

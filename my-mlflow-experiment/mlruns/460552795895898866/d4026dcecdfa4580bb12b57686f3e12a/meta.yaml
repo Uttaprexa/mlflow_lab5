@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/d4026dcecdfa4580bb12b57686f3e12a/artifacts
+end_time: 1763002801975
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: d4026dcecdfa4580bb12b57686f3e12a
+run_name: intelligent-cod-979
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002801702
+status: 3
+tags: []
+user_id: mahes

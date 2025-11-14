@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/c8717ee4efbe467d8b6aad0d1d7c402a/artifacts
+end_time: 1762189481323
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: c8717ee4efbe467d8b6aad0d1d7c402a
+run_name: upbeat-moose-57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189480943
+status: 3
+tags: []
+user_id: mahes

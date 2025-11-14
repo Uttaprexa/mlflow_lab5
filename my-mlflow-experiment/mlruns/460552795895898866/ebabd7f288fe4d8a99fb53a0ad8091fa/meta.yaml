@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/ebabd7f288fe4d8a99fb53a0ad8091fa/artifacts
+end_time: 1762189435410
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: ebabd7f288fe4d8a99fb53a0ad8091fa
+run_name: amusing-stoat-242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189435235
+status: 3
+tags: []
+user_id: mahes

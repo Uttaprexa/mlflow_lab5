@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/57efed3e7b5b4e979b4c7bc7c3e03f63/artifacts
+end_time: 1762189437564
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 57efed3e7b5b4e979b4c7bc7c3e03f63
+run_name: treasured-snail-383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189437297
+status: 3
+tags: []
+user_id: mahes

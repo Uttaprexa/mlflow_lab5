@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/ed37bb1098c84bbab7d7c02a61f41dcd/artifacts
+end_time: 1762189437810
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: ed37bb1098c84bbab7d7c02a61f41dcd
+run_name: gentle-moose-21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189437577
+status: 3
+tags: []
+user_id: mahes

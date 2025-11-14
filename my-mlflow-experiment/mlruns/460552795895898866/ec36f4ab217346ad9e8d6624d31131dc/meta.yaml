@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/ec36f4ab217346ad9e8d6624d31131dc/artifacts
+end_time: 1762189447328
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: ec36f4ab217346ad9e8d6624d31131dc
+run_name: crawling-carp-594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189446967
+status: 3
+tags: []
+user_id: mahes

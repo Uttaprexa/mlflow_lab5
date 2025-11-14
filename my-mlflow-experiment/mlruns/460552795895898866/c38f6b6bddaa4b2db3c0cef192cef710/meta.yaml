@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/c38f6b6bddaa4b2db3c0cef192cef710/artifacts
+end_time: 1762189460456
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: c38f6b6bddaa4b2db3c0cef192cef710
+run_name: bald-smelt-989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189460254
+status: 3
+tags: []
+user_id: mahes

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/788df53c8cab4c37911512032788b2aa/artifacts
+end_time: 1763002790963
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 788df53c8cab4c37911512032788b2aa
+run_name: abrasive-stoat-594
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002790698
+status: 3
+tags: []
+user_id: mahes

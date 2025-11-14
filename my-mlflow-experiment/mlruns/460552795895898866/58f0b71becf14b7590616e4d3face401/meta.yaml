@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/58f0b71becf14b7590616e4d3face401/artifacts
+end_time: 1762189448057
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 58f0b71becf14b7590616e4d3face401
+run_name: loud-gnu-943
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189447712
+status: 3
+tags: []
+user_id: mahes

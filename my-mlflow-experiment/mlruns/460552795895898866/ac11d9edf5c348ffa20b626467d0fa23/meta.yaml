@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/ac11d9edf5c348ffa20b626467d0fa23/artifacts
+end_time: 1762189435005
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: ac11d9edf5c348ffa20b626467d0fa23
+run_name: thoughtful-deer-900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189434815
+status: 3
+tags: []
+user_id: mahes

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/47c20535849d4f9bae354df019578702/artifacts
+end_time: 1763002753418
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 47c20535849d4f9bae354df019578702
+run_name: calm-wasp-155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002753136
+status: 3
+tags: []
+user_id: mahes

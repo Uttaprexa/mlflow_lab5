@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/57950ab0ad194a36a7c763a6e58c9837/artifacts
+end_time: 1763002798419
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 57950ab0ad194a36a7c763a6e58c9837
+run_name: fun-crab-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002798168
+status: 3
+tags: []
+user_id: mahes

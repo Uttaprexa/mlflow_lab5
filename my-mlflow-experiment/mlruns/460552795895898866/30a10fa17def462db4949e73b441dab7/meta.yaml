@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/30a10fa17def462db4949e73b441dab7/artifacts
+end_time: 1763002797886
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 30a10fa17def462db4949e73b441dab7
+run_name: bemused-toad-518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002797552
+status: 3
+tags: []
+user_id: mahes

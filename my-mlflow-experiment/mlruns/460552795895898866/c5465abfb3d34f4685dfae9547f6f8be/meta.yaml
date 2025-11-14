@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/c5465abfb3d34f4685dfae9547f6f8be/artifacts
+end_time: 1763002806968
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: c5465abfb3d34f4685dfae9547f6f8be
+run_name: receptive-bass-778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002806596
+status: 3
+tags: []
+user_id: mahes

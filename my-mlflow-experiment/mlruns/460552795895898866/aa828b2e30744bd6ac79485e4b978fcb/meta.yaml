@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/aa828b2e30744bd6ac79485e4b978fcb/artifacts
+end_time: 1763002796520
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: aa828b2e30744bd6ac79485e4b978fcb
+run_name: stylish-fox-52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002796272
+status: 3
+tags: []
+user_id: mahes

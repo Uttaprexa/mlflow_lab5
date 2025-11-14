@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/b5a29d4499254560965ba73cb17f149a/artifacts
+end_time: 1763002809972
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: b5a29d4499254560965ba73cb17f149a
+run_name: stylish-lamb-414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002809504
+status: 3
+tags: []
+user_id: mahes

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/d613cd41ad664cd8a34f39e00fa55ad2/artifacts
+end_time: 1762189433890
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: d613cd41ad664cd8a34f39e00fa55ad2
+run_name: unruly-crow-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189433702
+status: 3
+tags: []
+user_id: mahes

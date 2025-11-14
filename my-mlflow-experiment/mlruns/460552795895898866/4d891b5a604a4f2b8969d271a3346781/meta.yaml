@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/4d891b5a604a4f2b8969d271a3346781/artifacts
+end_time: 1762189447690
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 4d891b5a604a4f2b8969d271a3346781
+run_name: luminous-gnu-455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189447342
+status: 3
+tags: []
+user_id: mahes

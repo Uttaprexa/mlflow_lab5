@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/0c6e5466959148628d4777b86887f92d/artifacts
+end_time: 1762189476076
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 0c6e5466959148628d4777b86887f92d
+run_name: nervous-owl-636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189475763
+status: 3
+tags: []
+user_id: mahes

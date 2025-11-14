@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/ec25d69edf594db5ba367f77ac36f2d4/artifacts
+end_time: 1762189478219
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: ec25d69edf594db5ba367f77ac36f2d4
+run_name: bemused-mule-824
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189477898
+status: 3
+tags: []
+user_id: mahes

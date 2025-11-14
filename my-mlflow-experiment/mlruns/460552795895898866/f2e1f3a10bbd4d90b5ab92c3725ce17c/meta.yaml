@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/f2e1f3a10bbd4d90b5ab92c3725ce17c/artifacts
+end_time: 1762189439838
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: f2e1f3a10bbd4d90b5ab92c3725ce17c
+run_name: secretive-chimp-652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189439606
+status: 3
+tags: []
+user_id: mahes

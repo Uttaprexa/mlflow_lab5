@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/976119185370021119/98990c1d8bcf484e8f0823aae2ddd189/artifacts
+end_time: 1763002739224
+entry_point_name: ''
+experiment_id: '976119185370021119'
+lifecycle_stage: active
+run_id: 98990c1d8bcf484e8f0823aae2ddd189
+run_name: KNN
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002733213
+status: 3
+tags: []
+user_id: mahes

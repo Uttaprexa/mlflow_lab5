@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/e5ac92f09c724349b62b52d147bf8708/artifacts
+end_time: 1762189454868
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: e5ac92f09c724349b62b52d147bf8708
+run_name: big-zebra-453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189454512
+status: 3
+tags: []
+user_id: mahes

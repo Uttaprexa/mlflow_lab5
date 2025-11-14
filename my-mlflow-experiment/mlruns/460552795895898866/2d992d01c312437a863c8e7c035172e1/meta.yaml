@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/2d992d01c312437a863c8e7c035172e1/artifacts
+end_time: 1763002791197
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 2d992d01c312437a863c8e7c035172e1
+run_name: auspicious-stag-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002790979
+status: 3
+tags: []
+user_id: mahes

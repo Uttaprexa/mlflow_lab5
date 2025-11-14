@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/4154e08728d641d180248c08320bcd2e/artifacts
+end_time: 1763002765716
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 4154e08728d641d180248c08320bcd2e
+run_name: beautiful-foal-978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002765435
+status: 3
+tags: []
+user_id: mahes

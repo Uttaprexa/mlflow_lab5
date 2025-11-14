@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/bd0fe7748fd241d6ac358e487b5e733c/artifacts
+end_time: 1763002765990
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: bd0fe7748fd241d6ac358e487b5e733c
+run_name: awesome-owl-819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002765735
+status: 3
+tags: []
+user_id: mahes

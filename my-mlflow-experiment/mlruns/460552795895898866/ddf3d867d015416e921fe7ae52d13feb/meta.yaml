@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/ddf3d867d015416e921fe7ae52d13feb/artifacts
+end_time: 1763002775301
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: ddf3d867d015416e921fe7ae52d13feb
+run_name: rebellious-flea-323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002774935
+status: 3
+tags: []
+user_id: mahes

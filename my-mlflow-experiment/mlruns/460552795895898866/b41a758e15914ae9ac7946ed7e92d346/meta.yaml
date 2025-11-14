@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/b41a758e15914ae9ac7946ed7e92d346/artifacts
+end_time: 1762189450316
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: b41a758e15914ae9ac7946ed7e92d346
+run_name: lyrical-stork-466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189449955
+status: 3
+tags: []
+user_id: mahes

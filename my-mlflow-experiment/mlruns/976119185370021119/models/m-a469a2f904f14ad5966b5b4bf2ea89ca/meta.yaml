@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/976119185370021119/models/m-a469a2f904f14ad5966b5b4bf2ea89ca/artifacts
+creation_timestamp: 1763002686259
+experiment_id: '976119185370021119'
+last_updated_timestamp: 1763002700006
+model_id: m-a469a2f904f14ad5966b5b4bf2ea89ca
+model_type: null
+name: model
+source_run_id: 8568c172928745d69612310bdff4c02d
+status: 2
+status_message: null

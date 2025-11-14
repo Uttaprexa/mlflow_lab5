@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/4a37e04edc3c4c57ab1ae2227a43733c/artifacts
+end_time: 1762189441170
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 4a37e04edc3c4c57ab1ae2227a43733c
+run_name: stately-crab-193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189440942
+status: 3
+tags: []
+user_id: mahes

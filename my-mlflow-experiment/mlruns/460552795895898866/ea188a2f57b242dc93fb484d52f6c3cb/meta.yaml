@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/ea188a2f57b242dc93fb484d52f6c3cb/artifacts
+end_time: 1763002785355
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: ea188a2f57b242dc93fb484d52f6c3cb
+run_name: legendary-hen-125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002784966
+status: 3
+tags: []
+user_id: mahes

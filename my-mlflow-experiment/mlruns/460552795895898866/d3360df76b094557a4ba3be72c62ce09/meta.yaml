@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/d3360df76b094557a4ba3be72c62ce09/artifacts
+end_time: 1763002753638
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: d3360df76b094557a4ba3be72c62ce09
+run_name: skittish-snake-424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002753432
+status: 3
+tags: []
+user_id: mahes

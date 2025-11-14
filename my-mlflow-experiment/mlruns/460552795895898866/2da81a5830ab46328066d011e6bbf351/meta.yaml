@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/2da81a5830ab46328066d011e6bbf351/artifacts
+end_time: 1763002810417
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 2da81a5830ab46328066d011e6bbf351
+run_name: useful-goose-887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002809992
+status: 3
+tags: []
+user_id: mahes

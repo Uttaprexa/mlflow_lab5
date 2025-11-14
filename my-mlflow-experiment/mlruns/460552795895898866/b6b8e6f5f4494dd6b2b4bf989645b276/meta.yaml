@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/b6b8e6f5f4494dd6b2b4bf989645b276/artifacts
+end_time: 1762189464038
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: b6b8e6f5f4494dd6b2b4bf989645b276
+run_name: flawless-slug-398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189463792
+status: 3
+tags: []
+user_id: mahes

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/c871ed3298e24469872bfa8e8800174a/artifacts
+end_time: 1763002756670
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: c871ed3298e24469872bfa8e8800174a
+run_name: gentle-sponge-308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002756432
+status: 3
+tags: []
+user_id: mahes

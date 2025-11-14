@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/976119185370021119/97151aac8995422c95cd1efccd118c3a/artifacts
+end_time: 1762189365103
+entry_point_name: ''
+experiment_id: '976119185370021119'
+lifecycle_stage: active
+run_id: 97151aac8995422c95cd1efccd118c3a
+run_name: SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189358876
+status: 3
+tags: []
+user_id: mahes

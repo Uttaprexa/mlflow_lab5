@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/465aa95bdbfb4be38b8212c971a34dc5/artifacts
+end_time: 1763002770629
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 465aa95bdbfb4be38b8212c971a34dc5
+run_name: trusting-robin-303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002770393
+status: 3
+tags: []
+user_id: mahes

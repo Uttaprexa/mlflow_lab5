@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/976119185370021119/fc0a2fb720e94a3f890581cd60d4c0ca/artifacts
+end_time: 1762189358860
+entry_point_name: ''
+experiment_id: '976119185370021119'
+lifecycle_stage: active
+run_id: fc0a2fb720e94a3f890581cd60d4c0ca
+run_name: Gradient Boosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189352222
+status: 3
+tags: []
+user_id: mahes

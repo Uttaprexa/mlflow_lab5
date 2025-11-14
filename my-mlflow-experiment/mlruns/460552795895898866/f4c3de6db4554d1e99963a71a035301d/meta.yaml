@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/f4c3de6db4554d1e99963a71a035301d/artifacts
+end_time: 1762189458349
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: f4c3de6db4554d1e99963a71a035301d
+run_name: resilient-shad-553
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189457971
+status: 3
+tags: []
+user_id: mahes

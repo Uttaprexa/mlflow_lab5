@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/976119185370021119/177503119aec44da82c8fa9165730689/artifacts
+end_time: 1763002733199
+entry_point_name: ''
+experiment_id: '976119185370021119'
+lifecycle_stage: active
+run_id: 177503119aec44da82c8fa9165730689
+run_name: Naive Bayes
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002727543
+status: 3
+tags: []
+user_id: mahes

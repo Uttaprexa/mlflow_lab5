@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/09806634f37b4152b5493f0e9b67e530/artifacts
+end_time: 1763002763466
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 09806634f37b4152b5493f0e9b67e530
+run_name: gaudy-worm-261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002763182
+status: 3
+tags: []
+user_id: mahes

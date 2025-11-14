@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/4a80acc100f344a0a0aae4fc4b5b9e19/artifacts
+end_time: 1762189482279
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 4a80acc100f344a0a0aae4fc4b5b9e19
+run_name: entertaining-ram-482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189482023
+status: 3
+tags: []
+user_id: mahes

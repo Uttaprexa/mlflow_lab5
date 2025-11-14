@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/b7cabe6fc43946fe8043a871f3d318a8/artifacts
+end_time: 1762189483455
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: b7cabe6fc43946fe8043a871f3d318a8
+run_name: nosy-mare-993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189483155
+status: 3
+tags: []
+user_id: mahes

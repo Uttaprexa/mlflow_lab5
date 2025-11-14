@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/32bcb0f80e4e4e0ab64f4cf22f8ed67b/artifacts
+end_time: 1763002791697
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 32bcb0f80e4e4e0ab64f4cf22f8ed67b
+run_name: peaceful-dog-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002791478
+status: 3
+tags: []
+user_id: mahes

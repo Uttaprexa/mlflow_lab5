@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/a67d6d3d587b463990d840c20e473883/artifacts
+end_time: 1762189463517
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: a67d6d3d587b463990d840c20e473883
+run_name: carefree-stag-610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189463295
+status: 3
+tags: []
+user_id: mahes

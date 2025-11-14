@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/12c4cb558e204a45a057dd9372c80163/artifacts
+end_time: 1763002754832
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 12c4cb558e204a45a057dd9372c80163
+run_name: resilient-hare-489
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002754591
+status: 3
+tags: []
+user_id: mahes

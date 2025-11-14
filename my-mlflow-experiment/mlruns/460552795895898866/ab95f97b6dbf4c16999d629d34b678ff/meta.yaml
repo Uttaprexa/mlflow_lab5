@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/ab95f97b6dbf4c16999d629d34b678ff/artifacts
+end_time: 1762189456038
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: ab95f97b6dbf4c16999d629d34b678ff
+run_name: persistent-rook-106
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189455675
+status: 3
+tags: []
+user_id: mahes

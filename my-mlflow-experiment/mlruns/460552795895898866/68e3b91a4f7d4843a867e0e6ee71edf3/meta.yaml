@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/68e3b91a4f7d4843a867e0e6ee71edf3/artifacts
+end_time: 1762189440930
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 68e3b91a4f7d4843a867e0e6ee71edf3
+run_name: bemused-elk-340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189440692
+status: 3
+tags: []
+user_id: mahes

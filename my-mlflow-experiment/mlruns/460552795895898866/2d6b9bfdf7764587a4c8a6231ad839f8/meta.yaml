@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/2d6b9bfdf7764587a4c8a6231ad839f8/artifacts
+end_time: 1763002761571
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 2d6b9bfdf7764587a4c8a6231ad839f8
+run_name: nervous-crane-222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002761276
+status: 3
+tags: []
+user_id: mahes

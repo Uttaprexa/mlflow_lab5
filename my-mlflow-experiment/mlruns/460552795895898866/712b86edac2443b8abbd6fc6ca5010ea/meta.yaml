@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/712b86edac2443b8abbd6fc6ca5010ea/artifacts
+end_time: 1762189465184
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 712b86edac2443b8abbd6fc6ca5010ea
+run_name: rare-slug-347
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189464992
+status: 3
+tags: []
+user_id: mahes

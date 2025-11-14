@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/f1e7bc3831a342ee902ab77ca0386918/artifacts
+end_time: 1762189432679
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: f1e7bc3831a342ee902ab77ca0386918
+run_name: sedate-flea-888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189432487
+status: 3
+tags: []
+user_id: mahes

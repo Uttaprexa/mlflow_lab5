@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/0427ed2195c14954b291ad82eb46d756/artifacts
+end_time: 1763002793998
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 0427ed2195c14954b291ad82eb46d756
+run_name: bemused-finch-450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002793686
+status: 3
+tags: []
+user_id: mahes

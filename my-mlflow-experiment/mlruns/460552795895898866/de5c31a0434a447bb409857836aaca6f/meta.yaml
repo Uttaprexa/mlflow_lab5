@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/de5c31a0434a447bb409857836aaca6f/artifacts
+end_time: 1763002776895
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: de5c31a0434a447bb409857836aaca6f
+run_name: caring-snipe-867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002776464
+status: 3
+tags: []
+user_id: mahes

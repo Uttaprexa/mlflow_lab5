@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/9e27cc8b8a1a4aff9524ea685cdd494f/artifacts
+end_time: 1763002774076
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 9e27cc8b8a1a4aff9524ea685cdd494f
+run_name: dashing-crane-772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002773280
+status: 3
+tags: []
+user_id: mahes

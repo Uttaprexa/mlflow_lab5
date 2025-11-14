@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/1f4c43354ca147e4a1a3e1e4bdbb0f07/artifacts
+end_time: 1763002774914
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 1f4c43354ca147e4a1a3e1e4bdbb0f07
+run_name: inquisitive-ape-562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002774515
+status: 3
+tags: []
+user_id: mahes

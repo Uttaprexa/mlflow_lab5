@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/b2f2f5b80c9f40e5a32b666cfdf5ac05/artifacts
+end_time: 1763002784140
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: b2f2f5b80c9f40e5a32b666cfdf5ac05
+run_name: youthful-turtle-994
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002783751
+status: 3
+tags: []
+user_id: mahes

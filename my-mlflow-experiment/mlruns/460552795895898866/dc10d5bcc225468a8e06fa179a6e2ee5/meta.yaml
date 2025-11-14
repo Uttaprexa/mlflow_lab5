@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/dc10d5bcc225468a8e06fa179a6e2ee5/artifacts
+end_time: 1762189450690
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: dc10d5bcc225468a8e06fa179a6e2ee5
+run_name: serious-mare-121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189450333
+status: 3
+tags: []
+user_id: mahes

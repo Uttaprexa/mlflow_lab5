@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/4cde1f416c424c11b3fa9b4b03b73191/artifacts
+end_time: 1762189438361
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 4cde1f416c424c11b3fa9b4b03b73191
+run_name: abundant-sloth-337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189438118
+status: 3
+tags: []
+user_id: mahes

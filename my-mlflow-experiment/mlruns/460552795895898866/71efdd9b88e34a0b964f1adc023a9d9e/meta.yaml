@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/71efdd9b88e34a0b964f1adc023a9d9e/artifacts
+end_time: 1763002781377
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 71efdd9b88e34a0b964f1adc023a9d9e
+run_name: burly-trout-19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002780994
+status: 3
+tags: []
+user_id: mahes

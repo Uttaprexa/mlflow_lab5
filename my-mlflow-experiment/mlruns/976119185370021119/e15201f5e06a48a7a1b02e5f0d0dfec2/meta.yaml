@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/976119185370021119/e15201f5e06a48a7a1b02e5f0d0dfec2/artifacts
+end_time: 1763002713535
+entry_point_name: ''
+experiment_id: '976119185370021119'
+lifecycle_stage: active
+run_id: e15201f5e06a48a7a1b02e5f0d0dfec2
+run_name: Random Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002706689
+status: 3
+tags: []
+user_id: mahes

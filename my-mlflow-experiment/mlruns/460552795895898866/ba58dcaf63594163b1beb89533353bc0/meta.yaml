@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/ba58dcaf63594163b1beb89533353bc0/artifacts
+end_time: 1762189430682
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: ba58dcaf63594163b1beb89533353bc0
+run_name: placid-rat-920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189430505
+status: 3
+tags: []
+user_id: mahes

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/748cd18b345041b8a6d7ac5a4c4c6da2/artifacts
+end_time: 1763002795029
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 748cd18b345041b8a6d7ac5a4c4c6da2
+run_name: painted-dove-71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002794676
+status: 3
+tags: []
+user_id: mahes

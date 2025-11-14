@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/fed4cb977c7e4c0589e43030ac0b572a/artifacts
+end_time: 1762189462786
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: fed4cb977c7e4c0589e43030ac0b572a
+run_name: agreeable-swan-412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189462542
+status: 3
+tags: []
+user_id: mahes

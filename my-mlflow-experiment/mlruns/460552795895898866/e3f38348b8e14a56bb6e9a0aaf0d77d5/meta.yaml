@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/e3f38348b8e14a56bb6e9a0aaf0d77d5/artifacts
+end_time: 1762189477888
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: e3f38348b8e14a56bb6e9a0aaf0d77d5
+run_name: delicate-newt-837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189477582
+status: 3
+tags: []
+user_id: mahes

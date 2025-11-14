@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/0398ea39c2b94f96bbe5468e190b88a4/artifacts
+end_time: 1763002786391
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 0398ea39c2b94f96bbe5468e190b88a4
+run_name: exultant-bug-211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002786201
+status: 3
+tags: []
+user_id: mahes

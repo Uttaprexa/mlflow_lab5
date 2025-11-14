@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/97a8f6dd426b4489bc2ef54be25b1d2f/artifacts
+end_time: 1763002800260
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 97a8f6dd426b4489bc2ef54be25b1d2f
+run_name: bold-penguin-287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002799955
+status: 3
+tags: []
+user_id: mahes

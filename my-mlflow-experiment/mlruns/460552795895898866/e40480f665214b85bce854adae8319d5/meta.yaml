@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/e40480f665214b85bce854adae8319d5/artifacts
+end_time: 1762189456778
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: e40480f665214b85bce854adae8319d5
+run_name: thundering-rook-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189456410
+status: 3
+tags: []
+user_id: mahes

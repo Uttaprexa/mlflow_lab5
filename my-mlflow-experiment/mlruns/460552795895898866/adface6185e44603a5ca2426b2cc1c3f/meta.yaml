@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/adface6185e44603a5ca2426b2cc1c3f/artifacts
+end_time: 1763002807732
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: adface6185e44603a5ca2426b2cc1c3f
+run_name: thundering-doe-480
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002807375
+status: 3
+tags: []
+user_id: mahes

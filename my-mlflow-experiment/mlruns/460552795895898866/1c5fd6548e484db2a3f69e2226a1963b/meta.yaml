@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/1c5fd6548e484db2a3f69e2226a1963b/artifacts
+end_time: 1762189469980
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 1c5fd6548e484db2a3f69e2226a1963b
+run_name: inquisitive-asp-754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189469664
+status: 3
+tags: []
+user_id: mahes

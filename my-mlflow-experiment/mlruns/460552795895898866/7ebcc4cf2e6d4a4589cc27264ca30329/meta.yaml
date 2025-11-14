@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/7ebcc4cf2e6d4a4589cc27264ca30329/artifacts
+end_time: 1762189432916
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 7ebcc4cf2e6d4a4589cc27264ca30329
+run_name: chill-hare-809
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189432694
+status: 3
+tags: []
+user_id: mahes

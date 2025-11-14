@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/7bfb2fca0c054da6be581ffc283d1c83/artifacts
+end_time: 1763002789413
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 7bfb2fca0c054da6be581ffc283d1c83
+run_name: gaudy-fowl-11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002789017
+status: 3
+tags: []
+user_id: mahes

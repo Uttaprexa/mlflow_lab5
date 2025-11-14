@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/ec4cafb989f04f168d23a5f4a6e2ebc0/artifacts
+end_time: 1762189466792
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: ec4cafb989f04f168d23a5f4a6e2ebc0
+run_name: capricious-rook-404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762189466492
+status: 3
+tags: []
+user_id: mahes

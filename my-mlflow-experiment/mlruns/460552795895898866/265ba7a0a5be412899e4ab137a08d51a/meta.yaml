@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mahes/Downloads/MLOps/Labs/Experiment_Tracking_Labs/Mlflow_Labs/my-mlflow-experiment/mlruns/460552795895898866/265ba7a0a5be412899e4ab137a08d51a/artifacts
+end_time: 1763002760761
+entry_point_name: ''
+experiment_id: '460552795895898866'
+lifecycle_stage: active
+run_id: 265ba7a0a5be412899e4ab137a08d51a
+run_name: indecisive-bat-1000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763002760546
+status: 3
+tags: []
+user_id: mahes
